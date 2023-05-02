@@ -1,4 +1,13 @@
 ### Hi Everyone👋 I am Sakshi
+Machine learning professional with proficiency in building and deploying classical and advanced machine learning and deep learning techniques. My key skills are:
+
+1. 9+ experience of building, training, testing and deploying machine learning models 
+2. In depth understanding of  supervised learning, unsupervised learning , anomaly detection, classic neural networks, convolutional Neural Networks, recurrent Neural Networks (RNNs) and Long Short-Term Memory(LSTM)
+3. Rich experience in technologies like sklearn, matplotlib, keras etc
+4. AWS certified Machine learning specialist
+5. AWS certified Cloud practitioner
+6. Skilled in AWS Sagemaker for model building and endpoint configuration
+
 
 <!--
 **sakshibabbar2019/sakshibabbar2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
