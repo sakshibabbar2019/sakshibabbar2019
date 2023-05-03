@@ -1,6 +1,6 @@
 <img src="https://mediamove.id/wp-content/uploads/2019/07/Business.gif" width="950" height="250">
 <h1 align="center">Hi👋, I'm Sakshi</h1>
-<h3 align="center">Machine learning professional with proficiency in building and deploying classical and advanced machine learning and deep learning techniques.</h3>
+<h3 align="center">Machine learning professional with proficiency in building and deploying classical and advanced machine learning and deep learning models.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshibabbar2019&label=Profile%20views&color=0e75b6&style=flat" alt="sakshibabbar2019" /> </p>
 
